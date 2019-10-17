@@ -2,7 +2,7 @@
 
 
 
-Диаграмма состояний (https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20state.jpg)
+[Диаграмма состояний](https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20state.jpg)
 
 Диаграмма развертывания (https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20deployment.jpg)
 

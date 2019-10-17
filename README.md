@@ -15,3 +15,6 @@
 Диаграммы последовательности:
 [Delete sequence](https://github.com/SexyalGUN/Gym-Diary/blob/master/delete%20sequence.jpg)
 [Main sequence](https://github.com/SexyalGUN/Gym-Diary/blob/master/main%20sequence.jpg)
+
+Варианты использования:
+[UseCase](https://github.com/SexyalGUN/Gym-Diary/blob/master/UseCase.jpg)

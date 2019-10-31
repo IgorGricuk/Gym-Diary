@@ -15,4 +15,4 @@
 
 [Диаграмма развертывания](https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20deployment.jpg)
 
-[Диаграмма классов](https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20class.jpg)
+[Диаграмма классов](https://github.com/SexyalGUN/Gym-Diary/blob/master/New%20Class%20Diag.png)

@@ -10,3 +10,6 @@
 [Main sequence](https://github.com/SexyalGUN/Gym-Diary/blob/master/main%20sequence.jpg)
 
 [Варианты использования](https://github.com/SexyalGUN/Gym-Diary/blob/master/UseCase.jpg)
+
+[Диаграмма состояний](https://github.com/SexyalGUN/Gym-Diary/blob/master/Diagram%20state.jpg)
+

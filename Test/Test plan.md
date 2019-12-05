@@ -1,45 +1,40 @@
-# Test plan
-## Content
+# План теста
+## Содержание
 
-1. [Introduction](#par1) 
-2. [Test object](#par2)
-3. [Risks](#par3)
-4. [Test aspects](#par4)
-5. [Test approaches](#par5)
-6. [Presentation of results](#par6)
-7. [Conclusions](#par7)
+1. [Введение](#par1) 
+2. [Объект теста](#par2)
+3. [Требования](#par3)
+4. [Аспекты теста](#par4)
+5. [Тестовые подходы](#par5)
+6. [Представление результатов](#par6)
+7. [Вывод](#par7)
 
-## <a name="par1">1. Introduction</a>
-Main purpose of that document is description of the Survival Game desktop application test plan.
-That information made to testing team which going to test application for compliance.
+## <a name="par1">1. Введение</a>
+Основная цель этого документа - описание плана тестирования мобильного приложения GymDiary.
 
-## <a name="par2">2. Test object</a>
-Test object includes functional requirements, convenience and ease of use.
-The quality attributes:
-1. functionality;
-2. simplicity of use;
+## <a name="par2">2. Объект теста</a>
+Объект испытаний включает в себя функциональные требования, удобство и простоту испольщования.
+Атрибуты качества:
+1. Функциональные возможности;
+2. Простота использования;
 
-## <a name="par3">3. Ricks</a>
-Device must have keybord, mouse(or touchpad), broadband internet connection. 
+## <a name="par3">3. Требования</a>
+Устройство должно иметь сенсорный экран и версию Android 4.4 и выше. 
 
-## <a name="par4">4. Test aspects</a>
-During the testing process it`s expected to check the compliance of the requirements on the basis of which it was designed and realised.
-Compliance requirements:
-1. The ability to pick up weapons;
-2. The presence of opponents who can kill the user and whom the user can kill;
-3. The ability to play with other people;
-4. Picked weapon shooting;
-      
-Must check other requirements:  
-1. performance;
-2. limited map;
+## <a name="par4">4. Аспекты теста</a>
+В процессе тестирования предпологается проверка соответствия требованиям, на основании которых оно было разработано и реализовано. Требования соответствия:
+1. Выбор даты начала занятий;
+2. Выбор упражнений;
+3. Выполнение упражнений по подходам;
+4. Подробная информация об упражнениях;
+5. Статистика выполнения упражнений.
 
-## <a name="par5">5. Test approaches</a>
-Manual testing must be used to check all test aspects. 
 
-## <a name="par6">6. Presentation of results</a>
-Link to test results [Test](https://github.com/homelessinlaw/trtpo/blob/master/Test/Test%20Conclusion.md).
+## <a name="par5">5. Тестовые подходы</a>
+Ручное тестирование должно использоваться для проверки всех аспектов тестирования. 
 
-## <a name="par7">7. Conclusions</a>
-This test plan allows you to test the main functionality of the application. Successful completion of all tests does not guarantee 
-full functionality on all platforms and architectures, however, allows you to believe that this software is working correctly.
+## <a name="par6">6. Представление результатов</a>
+Ссылка на результаты [Test](https://github.com/Daniil-Lukashchik/My_ToDo_List/blob/master/Test/Test%20Conclusion.md).
+
+## <a name="par7">7. Вывод</a>
+Этот план тестирования позволяет проверить основные функциональные возможности приложения. Успешное завершение всех тестов не гарантирует полную функциональность на всех платформах и архитектурах, однако позволяет пологать, что это программное обеспечение работате правильно.
